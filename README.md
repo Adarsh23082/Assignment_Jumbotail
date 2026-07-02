@@ -84,30 +84,6 @@ The solution generates SKU-level recommendations including:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository.
-
-```bash
-git clone <repository-url>
-```
-
-2. Install the required libraries.
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Place the input dataset (`assignment_data.csv`) in the project directory.
-
-4. Open and run:
-
-```text
-replenishment_planner.ipynb
-```
-
----
-
 ## 📌 Business Rules Implemented
 
 - Maintain inventory norms
